@@ -1,0 +1,26 @@
+# Blender MTL File: 'None'
+# Material Count: 2
+
+newmtl 材質1.001
+Ns 7.843137
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Head_Dif.png
+map_d Head_Dif.png
+
+newmtl 材質2.001
+Ns 7.843137
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Body_Dif.png
+map_d Body_Dif.png
